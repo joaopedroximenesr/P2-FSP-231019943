@@ -1,0 +1,21 @@
+cod_ibge,municipio,ano,pop_oficial,fonte_pop_oficial,pop_harmonizada,fonte_pop_harmonizada
+1302603,Manaus,2016,2094391.0,IBGE estimativa (tab. 6579),1926603,interpolação geométrica Censo 2010–Censo 2022
+1302603,Manaus,2017,2130264.0,IBGE estimativa (tab. 6579),1948496,interpolação geométrica Censo 2010–Censo 2022
+1302603,Manaus,2018,2145444.0,IBGE estimativa (tab. 6579),1970637,interpolação geométrica Censo 2010–Censo 2022
+1302603,Manaus,2019,2182763.0,IBGE estimativa (tab. 6579),1993030,interpolação geométrica Censo 2010–Censo 2022
+1302603,Manaus,2020,2219580.0,IBGE estimativa (tab. 6579),2015677,interpolação geométrica Censo 2010–Censo 2022
+1302603,Manaus,2021,2255903.0,IBGE estimativa (tab. 6579),2038582,interpolação geométrica Censo 2010–Censo 2022
+1302603,Manaus,2022,2063689.0,IBGE Censo 2022 (tab. 4714),2063689,Censo 2022
+1302603,Manaus,2023,,sem publicação oficial do IBGE,2164312,interpolação geométrica Censo 2022–estimativa 2024
+1302603,Manaus,2024,2279686.0,IBGE estimativa (tab. 6579),2279686,IBGE estimativa pós-censo (tab. 6579)
+1302603,Manaus,2025,2303732.0,IBGE estimativa (tab. 6579),2303732,IBGE estimativa pós-censo (tab. 6579)
+1303403,Parintins,2016,112716.0,IBGE estimativa (tab. 6579),99201,interpolação geométrica Censo 2010–Censo 2022
+1303403,Parintins,2017,113832.0,IBGE estimativa (tab. 6579),98731,interpolação geométrica Censo 2010–Censo 2022
+1303403,Parintins,2018,113168.0,IBGE estimativa (tab. 6579),98262,interpolação geométrica Censo 2010–Censo 2022
+1303403,Parintins,2019,114273.0,IBGE estimativa (tab. 6579),97796,interpolação geométrica Censo 2010–Censo 2022
+1303403,Parintins,2020,115363.0,IBGE estimativa (tab. 6579),97332,interpolação geométrica Censo 2010–Censo 2022
+1303403,Parintins,2021,116439.0,IBGE estimativa (tab. 6579),96870,interpolação geométrica Censo 2010–Censo 2022
+1303403,Parintins,2022,96372.0,IBGE Censo 2022 (tab. 4714),96372,Censo 2022
+1303403,Parintins,2023,,sem publicação oficial do IBGE,99003,interpolação geométrica Censo 2022–estimativa 2024
+1303403,Parintins,2024,101956.0,IBGE estimativa (tab. 6579),101956,IBGE estimativa pós-censo (tab. 6579)
+1303403,Parintins,2025,101855.0,IBGE estimativa (tab. 6579),101855,IBGE estimativa pós-censo (tab. 6579)

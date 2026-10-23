@@ -1,0 +1,121 @@
+\section{Resultados e discussão}\label{sec:resultados}
+
+\subsection{O que mudou em relação ao trabalho anterior}
+
+O trabalho anterior\footnote{VICTOR, C. \textit{Prova P1 de Finanças do Setor Público} (matrícula 231020069). 2026. Repositório GitHub: \url{https://github.com/cauaviictor/P1---FSP---231020069---CAUA-VICTOR}, \textit{commit} 5209bcec.} disponibilizou base editável (planilha com fórmulas e arquivos do Finbra), preservada integralmente na pasta \texttt{01\_base\_original} do repositório. A conferência dessa base orientou as correções e ampliações resumidas no Quadro~\ref{tab:mudancas}; o registro detalhado está em \texttt{05\_registro\_alteracoes/registro\_alteracoes.md}.
+
+\begin{table}[htbp]
+\centering
+\caption{Principais diferenças entre a base do trabalho anterior e a base atualizada}\label{tab:mudancas}
+\scriptsize
+\begin{tabular}{p{2.6cm}p{5.7cm}p{6.2cm}}
+\toprule
+Aspecto & Trabalho anterior (P1) & Esta versão (P2)\\
+\midrule
+Unidades & Espanha; Maceió/AL e Duque de Caxias/RJ & Espanha; Manaus/AM e Parintins/AM (redistribuição do professor)\\
+Período & 2013--2022 & 2016--2025 (dez exercícios mais recentes com DCA completa)\\
+Fonte municipal & Planilhas do Finbra baixadas manualmente (AL e RJ) & API do Siconfi (DCA, Anexos I-C, I-D e I-E), com coleta registrada\\
+Plano de contas & Não tratado; contas lidas por código & Harmonização das três classificações (2016--17, 2018--21, 2022--25) pelo nome da conta, com regra anti-dupla contagem\\
+Intraorçamentárias & Incluídas na despesa & Excluídas de receita e despesa\\
+FUNDEB & Receita bruta, sem deduções & Receitas líquidas das deduções; FUNDEB recebido entre as transferências\\
+Deflator & Fatores pontuais da Calculadora do Cidadão, base 2022, com fator de 1,0054 no próprio ano-base & Média anual do IPCA (Sidra 1737), base 2025 = 1; IPCH anual para a Espanha\\
+População & Estimativas até 2021 e Censo 2022 na mesma série; números armazenados como texto & Série harmonizada aos Censos de 2010 e 2022; série oficial mantida para sensibilidade\\
+País & FMI (WEO abr./2024), governo geral; ``equilíbrio estrutural'' rotulado de forma imprecisa & Eurostat por subsetor (central, regional, local, seguridade), saldo B.9 e dívida de Maastricht, até 2025\\
+Dados ausentes & ``--'' misturado a números; IDEB ausente em anos pares & Ausências explícitas (NA), nunca zero; Parintins 2016 sem DCA registrado\\
+Análises & Descritivas, Laffer, regressão simples receita-PIB & Regressões com efeito fixo de município para \textit{flypaper} e esforço tributário, com oito testes de sensibilidade e diagnósticos para amostra pequena; estudo bibliométrico\\
+Reprodutibilidade & Planilha & Scripts Python e R que reproduzem bases, tabelas e figuras\\
+\bottomrule
+\end{tabular}
+\par\smallskip
+\begin{minipage}{0.97\textwidth}\scriptsize Fonte: elaboração própria a partir da conferência da base de Victor (2026).\end{minipage}
+\end{table}
+
+Algumas correções alteram a leitura dos números. A mais importante para a comparação temporal é a da população: misturar estimativas antigas com o Censo de 2022 faria a receita per capita de Parintins saltar artificialmente cerca de 20\% entre 2021 e 2022, apenas pela troca da base populacional. A exclusão das despesas intraorçamentárias reduz a despesa de Manaus em até R\$ 0,9 bilhão em um único ano (2020) e evita que contribuições patronais ao regime próprio sejam contadas como gasto final. Para a Espanha, a substituição do FMI pelo Eurostat corrige um problema conceitual: a variável chamada de ``equilíbrio estrutural'' na base anterior não corresponde ao saldo efetivo das administrações públicas, que em 2020 foi de \esBnoveVinte\% do PIB; a nova base usa a capacidade ou necessidade de financiamento (B.9), conceito empregado nas regras europeias.
+
+\subsection{Manaus e Parintins: financiamento e gasto}
+
+A Tabela~\ref{tab:focos} e a Figura~\ref{fig:composicao} apresentam a evolução das finanças dos dois municípios. Em Manaus, a receita total líquida real per capita passou de R\$ \recManIni{} em 2016 para R\$ \recManFim{} em 2025, crescimento de \recManVar\%. A receita tributária real per capita cresceu mais rapidamente (\tribManVar\%, de R\$ \tribManIni{} para R\$ \tribManFim), puxada pelo ISS, que responde em média por \issShareMan\% da arrecadação tributária, enquanto o IPTU responde por \iptuShareMan\%. Ainda assim, as transferências financiaram entre \depManMin\% e \depManMax\% da receita total no período (média de \depManMedia\%). A composição das transferências reflete a economia da capital: a cota-parte do ICMS, ligada ao valor adicionado da indústria incentivada, responde em média por \icmsShareMan\% das transferências líquidas, o FUNDEB por \fundebShareMan\% e o FPM por apenas \fpmShareMan\%.
+
+\begin{figure}[htbp]
+\centering
+\caption{Receita real per capita por origem, Manaus e Parintins, 2016--2025 (R\$ de 2025)}\label{fig:composicao}
+\includegraphics[width=0.95\textwidth]{fig1_composicao_receita_focos.png}
+\par\smallskip
+\begin{minipage}{0.95\textwidth}\scriptsize
+Fonte: elaboração própria com dados do Siconfi/DCA e do IBGE. Receita corrente própria = receita corrente bruta menos transferências correntes brutas; transferências líquidas incluem as de capital e excluem as deduções para o FUNDEB. Parintins não tem DCA de 2016 no Siconfi.
+\end{minipage}
+\end{figure}
+
+\input{tabelas/tab_focos.tex}
+
+Parintins tem um padrão de outra natureza. As transferências responderam por \depParMin\% a \depParMax\% da receita total (média de \depParMedia\%), e a receita tributária correspondeu, em média, a apenas \autParMedia\% da receita corrente líquida, contra \autManMedia\% em Manaus. Mesmo esse percentual superestima a autonomia: a receita tributária inclui o imposto de renda retido na fonte dos servidores municipais, que pertence ao município por determinação constitucional, mas depende da própria folha de pagamento e não de uma base econômica local. O ISS representa \issSharePar\% da receita tributária e o IPTU, \iptuSharePar\%. As transferências de Parintins são mais diversificadas e mais vinculadas que as de Manaus: o FUNDEB responde por \fundebSharePar\%, o FPM por \fpmSharePar\%, os repasses do SUS por \susSharePar\% e o ICMS por \icmsSharePar\%. Entre 2017 e 2025, as transferências reais per capita cresceram \transfParVar\%, com forte aceleração em 2024 e 2025, impulsionada por repasses do SUS e por transferências de capital, e a despesa real per capita acompanhou esse movimento (\despParVar\%), passando de R\$ \despParIni{} para R\$ \despParFim.
+
+A composição do gasto reforça a diferença. Em Manaus, a despesa real per capita com pessoal cresceu \pessoalManVar\% no período, menos do que a despesa total, enquanto saúde e educação cresceram \saudeManVar\% e \educManVar\%. Em Parintins, a despesa com pessoal cresceu \pessoalParVar\%, a saúde \saudeParVar\% e os investimentos, que partiam de valores muito baixos (R\$ \investParIni{} per capita em 2017), chegaram a R\$ \investParFim{} em 2025 --- uma expansão que coincide com o aumento das transferências de capital. Quanto ao resultado orçamentário, Manaus registrou superávit em \resPosMan{} dos \nAnosMan{} exercícios, com valores reais entre R\$ \resMinMan{} milhões (\anoResMinMan) e R\$ \resMaxMan{} milhões (\anoResMaxMan); Parintins registrou superávit em \resPosPar{} dos \nAnosPar{} exercícios disponíveis. Em ambos os casos, os resultados oscilam em torno do equilíbrio, como esperado de entes sujeitos à LRF e sem acesso relevante a crédito.
+
+\subsection{Dependência de transferências: Manaus, Parintins e Espanha}
+
+A Figura~\ref{fig:dependencia} compara a dependência de transferências dos dois municípios com a dos subsetores espanhóis. A distância entre Manaus e Parintins é estável ao longo de todo o período: a dependência de Parintins nunca ficou abaixo de \depParMin\%, enquanto a de Manaus oscilou entre \depManMin\% e \depManMax\%. A diferença não decorre de oscilações conjunturais, mas da estrutura econômica: o PIB per capita de Manaus em 2023 (R\$ \pibpcManFim) era cerca de três vezes e meia o de Parintins (R\$ \pibpcParFim), e é essa base que sustenta o ISS e a cota-parte do ICMS da capital. A primeira parte da hipótese H1 é, portanto, confirmada.
+
+\begin{figure}[htbp]
+\centering
+\caption{Transferências recebidas em proporção da receita total: Manaus, Parintins e subsetores da Espanha, 2016--2025}\label{fig:dependencia}
+\includegraphics[width=0.9\textwidth]{fig2_dependencia_transferencias.png}
+\par\smallskip
+\begin{minipage}{0.9\textwidth}\scriptsize
+Fonte: elaboração própria com dados do Siconfi, do IBGE e do Eurostat. Para a Espanha, transferências recebidas = D.7 + D.9 sobre a receita total do subsetor (não consolidada). Parintins não tem DCA de 2016 no Siconfi.
+\end{minipage}
+\end{figure}
+
+Na Espanha, as Comunidades Autônomas receberam em transferências, em média, \esDepCA\% de sua receita, e as entidades locais, \esDepLoc\% (Tabela~\ref{tab:espanha}). A dependência regional espanhola é, portanto, semelhante à de Manaus, mas muito inferior à de Parintins. Duas ressalvas qualificam a comparação. Primeiro, no SEC 2010 as parcelas cedidas do IRPF e do IVA são registradas como impostos regionais, embora as alíquotas e as bases sejam, em larga medida, definidas pelo Estado; uma classificação análoga à brasileira elevaria a dependência regional espanhola. Segundo, as entidades locais espanholas não financiam saúde e educação, que no Brasil absorvem a maior parte das transferências vinculadas. Ainda assim, a segunda parte de H1 é confirmada para Parintins e, parcialmente, para Manaus: os níveis subnacionais espanhóis têm autonomia tributária muito maior (impostos próprios equivalem a \esAutCA\% da receita regional e \esAutLoc\% da receita local, contra \autManMedia\% e \autParMedia\% da receita corrente líquida em Manaus e Parintins), e as entidades locais dependem menos de transferências do que ambos os municípios.
+
+\input{tabelas/tab_espanha.tex}
+
+O contraste mais nítido está na disciplina fiscal (Figura~\ref{fig:espanha}). O déficit das administrações públicas espanholas caiu de \esBnoveGerIni\% do PIB em 2016 para \esBnoveGerFim\% em 2025, depois de atingir \esBnoveVinte\% na pandemia, e a dívida bruta oscilou em torno de 100\% do PIB (\esGDGerIni\% em 2016, \esGDvinte\% em 2020 e \esGDGerFim\% em 2025), muito acima da referência de 60\%. O desequilíbrio, porém, concentra-se na administração central e na seguridade social. As Comunidades Autônomas mantiveram déficits pequenos (média de \esBnoveCAMedia\% do PIB) e reduziram sua dívida de \esGDCAIni\% para \esGDCAFim\% do PIB, e as entidades locais registraram superávit em \esSupLocAnos{} dos dez anos, com dívida que caiu de \esGDLocIni\% para \esGDLocFim\% do PIB. Esse resultado é coerente com H4 e com a evidência de que a autonomia tributária e as regras de estabilidade endurecem a restrição orçamentária subnacional \cite{arespa2022,asatryan2015}. Ele também se aproxima do que se observa em Manaus e Parintins, que, sob a LRF, oscilam em torno do equilíbrio. A diferença é que, na Espanha, a disciplina convive com autonomia tributária, ao passo que em Parintins ela convive com dependência quase total de transferências --- a combinação que \citeonline{rodden2002} associa a pressões por resgate quando as regras de endividamento se afrouxam.
+
+\begin{figure}[htbp]
+\centering
+\caption{Espanha: saldo e dívida bruta por subsetor das administrações públicas, 2016--2025 (\% do PIB)}\label{fig:espanha}
+\includegraphics[width=0.95\textwidth]{fig4_espanha_subsetores.png}
+\par\smallskip
+\begin{minipage}{0.95\textwidth}\scriptsize
+Fonte: elaboração própria com dados do Eurostat (\texttt{gov\_10dd\_edpt1}). Dívida de Maastricht não consolidada entre subsetores.
+\end{minipage}
+\end{figure}
+
+\subsection{Transferências, renda e gasto em Manaus e Parintins}
+
+A Figura~\ref{fig:dispersao} mostra a relação entre transferências e despesa per capita nos dois municípios, ano a ano. Em Parintins, os pontos sobem praticamente sobre a reta de 45 graus: cada aumento das transferências se converteu em aumento quase equivalente da despesa. Em Manaus, os pontos ficam acima da reta e se espalham mais, porque a despesa também é financiada por receitas próprias, que cresceram no período. A comparação das variações acumuladas confirma essa leitura: entre \propDeMan{} e 2023, a despesa real per capita de Manaus aumentou R\$ \dDespMan{}, para um aumento de R\$ \dTransfMan{} nas transferências (R\$ \propTrMan{} de despesa por real transferido) e de R\$ \dPibMan{} no PIB per capita; em Parintins, entre \propDePar{} e 2023, a despesa aumentou R\$ \dDespPar{} para um aumento de R\$ \dTransfPar{} nas transferências (R\$ \propTrPar{} por real transferido) e de apenas R\$ \dPibPar{} no PIB per capita.
+
+\begin{figure}[htbp]
+\centering
+\caption{Transferências líquidas e despesa empenhada per capita, Manaus e Parintins, 2016--2025 (mil R\$ de 2025)}\label{fig:dispersao}
+\includegraphics[width=0.78\textwidth]{fig3_dispersao_transf_despesa.png}
+\par\smallskip
+\begin{minipage}{0.78\textwidth}\scriptsize
+Fonte: elaboração própria com dados do Siconfi e do IBGE. Cada ponto é um ano (rótulo = dois últimos dígitos); as retas são ajustes lineares por município.
+\end{minipage}
+\end{figure}
+
+\input{tabelas/tab_regressoes.tex}
+
+A Tabela~\ref{tab:reg} apresenta as estimações. Na especificação principal (coluna 1), com efeito fixo de município, um real adicional de transferências líquidas per capita associa-se a R\$ \bTrUm{} de despesa per capita, enquanto um real adicional de PIB per capita associa-se a R\$ \bPibUm{}, coeficiente não significativo. A hipótese de que as duas propensões são iguais é rejeitada ($t=\wtUm$, $p\,\wpUm$), resultado compatível com o efeito \textit{flypaper}. A ordem de grandeza está em linha com a literatura: a propensão a gastar a renda local fica na faixa de poucos centavos indicada por \citeonline{hines1995}, e a das transferências se aproxima dos valores encontrados para municípios brasileiros \cite{cossio2001,ferreira2019,ferreira2022} e em desenhos quase-experimentais em outros países \cite{dahlberg2008,leduc2017}. O resultado se mantém quando os valores per capita são calculados com a população oficial do IBGE (coluna 6: \bTrSeis{}, com $t=\wtSeis$ para a diferença) e quando se exclui o PIB para usar todos os anos até 2025 (\bTrOito{}, com \nOito{} observações).
+
+A robustez, contudo, é limitada, como se espera com tão poucas observações. Com uma tendência linear comum (coluna 2), o coeficiente das transferências cai para \bTrDois{} e deixa de ser significativo, e a diferença em relação ao PIB passa a ter $p=\wpDois$; em primeiras diferenças (coluna 5), o coeficiente é de \bTrCinco{}, também sem significância. Isso indica que parte da associação em níveis decorre do crescimento simultâneo de transferências e despesas ao longo do tempo, e não apenas da resposta ano a ano. A estimação separada por município (colunas 7 e 8) mostra de onde vem o resultado: em Parintins, o coeficiente das transferências é de \bTrDez{} ($p=\pTrDez$), muito próximo de um real gasto por real recebido; em Manaus, é praticamente nulo (\bTrNove), porque a despesa da capital acompanha também a receita própria. Na especificação logarítmica (coluna 4), a elasticidade do gasto em relação às transferências é de \bTrQuatro{}, mas a do PIB é estimada com tanta imprecisão que a diferença entre as duas não é significativa. A coluna 3 separa o FPM das demais transferências: o coeficiente do FPM (\bFpmTres) é impreciso, porque o FPM per capita varia pouco ao longo do tempo dentro de cada município, enquanto o das demais transferências (\bOutTres) é significativo. A hipótese H2 é, portanto, apenas parcialmente confirmada: o padrão de \textit{flypaper} é claro em Parintins e na especificação em níveis, mas não resiste ao controle de tendência nem às primeiras diferenças.
+
+A coluna 9 estima a Equação~\eqref{eq:trib}. O coeficiente das transferências sobre a receita tributária per capita é pequeno e não significativo (\bTrSete, $p=\pTrSete$), ao passo que o do PIB é positivo e significativo (\bPibSete, $p=\pPibSete$): a arrecadação própria acompanha a economia local, e não as transferências. Não há, portanto, evidência de que transferências maiores se associem a menor arrecadação própria, e a hipótese H3 não é confirmada. O resultado converge com a ausência de deslocamento da receita própria encontrada por \citeonline{litschig2013} e diverge da redução de eficiência arrecadatória documentada por \citeonline{mattos2011} e da substituição observada em municípios com \textit{royalties} \cite{postali2015}. Uma interpretação plausível é que, em um município como Parintins, com receita tributária próxima de \autParMedia\% da receita corrente líquida, não há muito esforço a ser substituído: a margem de ajuste está no gasto, e não na arrecadação.
+
+Os diagnósticos do modelo da coluna 1 ajudam a qualificar esses resultados. Não há indício de heterocedasticidade (Breusch-Pagan com $p=\bpP$), de não normalidade dos resíduos (Shapiro-Wilk com $p=\swP$), de erro de forma funcional (RESET com $p=\resetP$) nem de autocorrelação relevante dos resíduos dentro de cada município (coeficiente AR(1) de \arRho, com $p=\arP$; Durbin-Watson de \dwMan{} em Manaus e \dwPar{} em Parintins). O VIF das transferências é baixo (\vifTr), mas os do PIB (\vifPib) e da variável de Parintins (\vifPar) são muito altos, porque o PIB per capita é quase inteiramente explicado pela diferença entre os dois municípios; é por isso que o coeficiente do PIB é impreciso. A observação mais influente é \cookMun{} em \cookAno{} (distância de Cook de \cookMax{}), ano de forte superávit da capital.
+
+Para a Espanha, a regressão descritiva das despesas regionais e locais per capita sobre as transferências recebidas e o PIB per capita produz coeficientes de \esbTr{} e \esbPib{}, respectivamente ($n=\esN$), com diferença estatisticamente significativa. Com apenas vinte observações e transferências que, nas Comunidades Autônomas, financiam serviços de saúde e educação cujo gasto é em larga medida determinado pelo Estado, o resultado deve ser lido apenas como indício de que a mesma regularidade aparece em um sistema com regras fiscais mais estritas.
+
+\subsection{Discussão: \textit{flypaper}, ilusão fiscal e os dois casos amazônicos}
+
+Os resultados permitem responder à pergunta de pesquisa em três planos. No plano da dependência, Parintins financia cerca de nove de cada dez reais de sua receita com recursos de outras esferas, e mesmo Manaus, com a base própria mais ampla do estado, depende de transferências para mais da metade de sua receita. No plano do comportamento fiscal, o gasto de Parintins acompanha as transferências quase real a real e não responde à renda local, padrão compatível com o efeito \textit{flypaper}; em Manaus, a despesa responde também à receita própria, e o padrão é menos nítido. No plano comparativo, os níveis subnacionais espanhóis têm muito mais autonomia tributária e mantêm resultados próximos do equilíbrio, ao passo que Parintins mantém equilíbrio formal com autonomia mínima.
+
+A ausência de associação entre transferências e esforço tributário, combinada com a forte associação entre transferências e gasto em Parintins, ajuda a discriminar entre as explicações da literatura. Ela é pouco compatível com a versão da ilusão fiscal em que os governos substituem tributos por transferências \cite{mattos2011}, mas é compatível com a versão em que a transferência reduz o preço percebido do bem público e expande o gasto \cite{logan1986,turnbull1998}, com o poder de agenda da burocracia \cite{filimon1982} e, sobretudo, com o argumento do custo da arrecadação: onde explorar a base local é caro, como em municípios insulares de baixa formalização, a resposta às transferências é maior \cite{aragon2013,dahlby2011}. As vinculações constitucionais (saúde, educação e FUNDEB) também aproximam mecanicamente o gasto das transferências \cite{cruz2020}, o que significa que parte da associação medida reflete regras de destinação, e não apenas escolhas locais.
+
+Para a gestão pública, o caso de Manaus mostra que a dependência pode diminuir quando a base econômica sustenta tributos próprios --- a autonomia tributária subiu de \autManIni\% para \autManFim\% da receita corrente líquida no período ---, enquanto o caso de Parintins mostra o limite desse caminho em economias pequenas. A transição para o IBS, que substituirá o ISS e o ICMS, afetará justamente as duas fontes que distinguem Manaus de Parintins\footnote{BRASIL. Emenda Constitucional n.º 132, de 20 de dezembro de 2023 (Reforma Tributária). Disponível em: \url{https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm}.}. A experiência espanhola indica que autonomia tributária e regras fiscais podem coexistir com descentralização ampla \cite{arespa2022,asatryan2015}, mas também que a transferência de impostos não elimina a necessidade de mecanismos de nivelamento \cite{zabalza2011}.
+
+\subsection{Dados ausentes, sensibilidade e limitações dos resultados}
+
+Os resultados devem ser lidos à luz de quatro limitações. A primeira é o tamanho da amostra: com 15 observações nas regressões com PIB, os testes têm baixo poder, e a conclusão sobre o efeito \textit{flypaper} depende da especificação, como mostram as colunas 2 e 5 da Tabela~\ref{tab:reg}. A segunda é a ausência da DCA de Parintins em 2016, que não foi imputada; as variações da série do município são calculadas a partir de 2017. A terceira é a cobertura do PIB municipal, que termina em 2023; a especificação sem PIB, que usa os anos até 2025, produz coeficiente semelhante ao da especificação principal. A quarta é a natureza associativa das estimativas: a endogeneidade das transferências e a presença de transferências vinculadas impedem interpretar $\beta_1$ como efeito causal \cite{knight2002}. Mudanças de conceito também afetam a leitura: as três classificações da receita foram harmonizadas pelo nome das contas, mas reclassificações pontuais (por exemplo, o tratamento do IRRF e das complementações da União ao FUNDEB) podem produzir pequenas descontinuidades, registradas no arquivo de auditoria.

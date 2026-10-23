@@ -1,0 +1,75 @@
+% =====================================================================
+% Artigo — P2 Finanças do Setor Público — Matrícula 231019943
+% Compilar: latexmk -pdf artigo_P2_231019943.tex  (ou pdflatex + bibtex + pdflatex x2)
+% =====================================================================
+\documentclass[article,11pt,oneside,a4paper,english,brazil,sumario=tradicional]{abntex2}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{graphicx}
+\usepackage{booktabs,makecell,threeparttable,float,longtable}
+\usepackage{amsmath,amssymb}
+\usepackage{icomma}
+\usepackage{xcolor}
+\usepackage[alf,abnt-emphasize=bf,abnt-etal-cite=3,abnt-etal-list=0]{abntex2cite}
+\usepackage{xurl}
+\usepackage{caption}
+\captionsetup{font=small,labelfont=bf,justification=raggedright,singlelinecheck=false}
+\setlrmarginsandblock{2.5cm}{2cm}{*}
+\setulmarginsandblock{2.5cm}{2cm}{*}
+\checkandfixthelayout
+\setlength{\parindent}{1.25cm}
+\setlength{\parskip}{0.15cm}
+\SingleSpacing
+\renewcommand{\baselinestretch}{1.15}
+\hypersetup{colorlinks=true,linkcolor=blue!50!black,citecolor=blue!50!black,urlcolor=blue!50!black,
+  pdftitle={Transferências intergovernamentais, ilusão fiscal e efeito flypaper: Manaus, Parintins e Espanha (2016–2025)},
+  pdfauthor={João Pedro Furtado Ximenes da Rocha}}
+\input{numeros.tex}
+\graphicspath{{../07_resultados/figuras/}{../07_resultados/bibliometria/}}
+
+\titulo{Transferências intergovernamentais, ilusão fiscal e efeito \textit{flypaper}: Manaus e Parintins (AM) diante do federalismo fiscal espanhol, 2016--2025}
+\autor{João Pedro Furtado Ximenes da Rocha\\ \small Matrícula 231019943}
+\data{Outubro de 2026}
+
+\begin{document}
+\selectlanguage{brazil}
+\frenchspacing
+
+\begin{center}
+{\large\bfseries Transferências intergovernamentais, ilusão fiscal e efeito \textit{flypaper}: Manaus e Parintins (AM) diante do federalismo fiscal espanhol, 2016--2025\par}
+\vspace{0.4cm}
+{\normalsize João Pedro Furtado Ximenes da Rocha --- Matrícula 231019943\par}
+{\small Finanças do Setor Público (FSP) --- Prova P2 --- Outubro de 2026\par}
+\end{center}
+\vspace{0.3cm}
+
+\begin{resumoumacoluna}
+O artigo investiga em que medida as transferências intergovernamentais condicionam o financiamento e o gasto de Manaus e Parintins, no Amazonas, entre 2016 e 2025, e compara esse padrão com a organização fiscal dos níveis subnacionais da Espanha. A base do trabalho anterior foi preservada, conferida e reconstruída a partir de fontes oficiais (Siconfi/DCA, IBGE e Eurostat), com harmonização das três classificações da receita pública vigentes no período, exclusão das operações intraorçamentárias, deflação pelo IPCA e pelo IPCH (base 2025) e uma série populacional compatível com os Censos de 2010 e 2022. A literatura foi mapeada com o \textit{bibliometrix} em \bibDocs{} artigos. Em Parintins, as transferências responderam, em média, por \depParMedia\% da receita total, contra \depManMedia\% em Manaus; Em regressões com efeito fixo de município e \nUm{} observações anuais dos dois municípios, cada real adicional de transferência per capita associou-se a R\$ \bTrUm{} de despesa, ao passo que um real adicional de PIB per capita associou-se a R\$ \bPibUm{}, diferença estatisticamente significativa e compatível com o efeito \textit{flypaper}. O padrão vem sobretudo de Parintins, onde a despesa acompanha as transferências quase real a real, e não resiste ao controle de tendência nem às primeiras diferenças, o que recomenda cautela diante do pequeno número de observações. Não se encontrou associação entre transferências e arrecadação tributária própria, que acompanha o PIB local. Na Espanha, as Comunidades Autônomas e as entidades locais têm autonomia tributária muito maior e dependem menos de transferências do que Parintins (\esDepCA\% e \esDepLoc\% da receita, respectivamente) e operam sob regras de estabilidade orçamentária nacionais e europeias. Os resultados indicam associação, e não causalidade, e reforçam a importância de desenhos de transferência que preservem a responsabilização pelo custo do gasto.
+
+\vspace{\onelineskip}
+\noindent\textbf{Palavras-chave}: transferências intergovernamentais; efeito \textit{flypaper}; ilusão fiscal; federalismo fiscal; municípios da Amazônia.
+\end{resumoumacoluna}
+
+\begin{otherlanguage}{english}
+\begin{resumoumacoluna}
+This paper examines how intergovernmental transfers shaped the financing and spending of Manaus and Parintins, in the Brazilian state of Amazonas, from 2016 to 2025, and contrasts this pattern with the fiscal organisation of Spain's subnational tiers. The previous assignment's database was preserved, audited and rebuilt from official sources (Siconfi/DCA, IBGE, Eurostat), harmonising three revenue classification schemes, removing intra-budgetary flows, deflating by IPCA and HICP (2025 prices) and using a census-consistent population series. A bibliometric map built with \textit{bibliometrix} covers \bibDocs{} journal articles. Transfers financed on average \depParMedia\% of Parintins' revenue and \depManMedia\% of Manaus'. In regressions with municipality fixed effects on \nUm{} annual observations of the two municipalities, one additional real of transfers per capita is associated with R\$ \bTrUm{} of spending, against R\$ \bPibUm{} for one additional real of local GDP per capita, a statistically significant gap consistent with the flypaper effect. The pattern is driven by Parintins and does not survive a time trend or first differences, which calls for caution given the small sample. Transfers are not associated with own tax revenue. Spanish regional and local governments are less transfer-dependent and operate under domestic and EU fiscal rules. Results are associations, not causal effects.
+
+\vspace{\onelineskip}
+\noindent\textbf{Keywords}: intergovernmental transfers; flypaper effect; fiscal illusion; fiscal federalism; Amazon municipalities.
+\end{resumoumacoluna}
+\end{otherlanguage}
+
+\input{secoes/01_introducao.tex}
+\input{secoes/02_referencial.tex}
+\input{secoes/03_metodologia.tex}
+\input{secoes/04_resultados.tex}
+\input{secoes/05_conclusao.tex}
+
+\bibliography{refs}
+
+\appendix
+\input{secoes/06_apendice.tex}
+
+\end{document}

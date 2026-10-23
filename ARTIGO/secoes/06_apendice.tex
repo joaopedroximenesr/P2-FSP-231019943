@@ -1,0 +1,31 @@
+\section*{Apêndice A -- Estudo bibliométrico: informações gerais, rede de coocorrência e mapa temático}
+\addcontentsline{toc}{section}{Apêndice A -- Estudo bibliométrico}
+
+\input{tabelas/tab_biblio.tex}
+
+\begin{figure}[htbp]
+\centering
+\caption{Rede de coocorrência das 40 palavras-chave mais frequentes}\label{fig:rede}
+\includegraphics[width=0.85\textwidth]{rede_coocorrencia.png}
+\par\smallskip
+\begin{minipage}{0.85\textwidth}\scriptsize
+Fonte: elaboração própria com \textit{bibliometrix} (\texttt{biblioNetwork} e \texttt{networkPlot}, algoritmo de Fruchterman-Reingold), corpus do OpenAlex.
+\end{minipage}
+\end{figure}
+
+\begin{figure}[htbp]
+\centering
+\caption{Mapa temático (centralidade $\times$ densidade) das palavras-chave}\label{fig:mapa}
+\includegraphics[width=0.7\textwidth]{mapa_tematico.png}
+\par\smallskip
+\begin{minipage}{0.7\textwidth}\scriptsize
+Fonte: elaboração própria com \textit{bibliometrix} (\texttt{thematicMap}, 250 termos, frequência mínima de 5).
+\end{minipage}
+\end{figure}
+
+\section*{Apêndice B -- Repositório, reprodução e fontes}
+\addcontentsline{toc}{section}{Apêndice B -- Repositório e reprodução}
+
+O repositório que acompanha este artigo está organizado de acordo com os itens exigidos: \texttt{01\_base\_original} (base do trabalho anterior, sem alterações); \texttt{02\_dados\_brutos\_atualizados} (respostas das APIs do Siconfi, do IBGE, do Eurostat e do OpenAlex em JSON e as mesmas tabelas em CSV e XLSX editáveis); \texttt{03\_dados\_tratados} (bases usadas nas análises, em CSV e XLSX); \texttt{04\_dicionario\_variaveis} (conceito, unidade, fonte, endereço, período, cobertura, tratamento de ausentes e fórmula de cada variável); \texttt{05\_registro\_alteracoes} (comparação entre a base anterior e a nova versão); \texttt{06\_codigos\_e\_planilhas} (scripts Python e R e planilha com fórmulas que reproduzem tratamentos, cálculos, tabelas, gráficos e resultados); \texttt{07\_resultados} (tabelas, figuras e saídas do \textit{bibliometrix}); e \texttt{08\_artigo} (código-fonte deste artigo, em que todos os números do texto são importados automaticamente dos resultados). As instruções de reprodução estão no arquivo \texttt{README.md}.
+
+Os endereços das fontes utilizadas são: Siconfi/DCA, \url{https://apidatalake.tesouro.gov.br/ords/siconfi/tt/dca}; IBGE/Sidra, \url{https://servicodados.ibge.gov.br/api/v3/agregados}; Eurostat, \url{https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/}; OpenAlex, \url{https://api.openalex.org}.

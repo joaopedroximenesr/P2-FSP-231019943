@@ -1,0 +1,35 @@
+\begin{table}[htbp]
+\centering
+\caption{Manaus e Parintins: transferências, renda local e gasto per capita, 2016--2023}
+\label{tab:reg}
+\scriptsize
+\setlength{\tabcolsep}{2.6pt}
+\begin{tabular}{lccccccccc}
+\toprule
+ & (1) & (2) & (3) & (4) & (5) & (6) & (7) & (8) & (9)\\
+ & Níveis & Tendência & FPM & Log & Dif. & Pop. of. & Manaus & Parintins & Trib.\\
+ & Desp. & Desp. & Desp. & ln Desp. & $\Delta$Desp. & Desp. & Desp. & Desp. & Trib.\\
+\midrule
+Transferências pc ($\beta_1$) & $0,899^{***}$ & $0,550$ &  & $0,839^{***}$ & $0,515$ & $1,040^{***}$ & $0,051$ & $1,054^{**}$ & $0,034$\\
+ & (0,119) & (0,418) &  & (0,172) & (0,557) & (0,275) & (1,021) & (0,315) & (0,025)\\[1pt]
+FPM pc &  &  & $1,064$ &  &  &  &  &  & \\
+ &  &  & (1,040) &  &  &  &  &  & \\[1pt]
+Demais transferências pc &  &  & $0,847^{***}$ &  &  &  &  &  & \\
+ &  &  & (0,138) &  &  &  &  &  & \\[1pt]
+PIB pc ($\beta_2$) & $0,051$ & $-0,024$ & $0,052$ & $0,042$ & $-0,038$ & $0,034$ & $0,129$ & $-0,108$ & $0,031^{***}$\\
+ & (0,039) & (0,113) & (0,042) & (0,745) & (0,129) & (0,024) & (0,096) & (0,186) & (0,009)\\[1pt]
+Parintins (efeito fixo) & $1,077$ & $-1,833$ & $1,125$ & $-0,300$ &  & $0,303$ &  &  & $0,556$\\
+ & (1,661) & (4,463) & (1,846) & (0,955) &  & (1,052) &  &  & (0,386)\\[1pt]
+Tendência linear &  & $0,145$ &  &  &  &  &  &  & \\
+ &  & (0,178) &  &  &  &  &  &  & \\[1pt]
+\midrule
+$H_0$: $\beta_1=\beta_2$ ($t$) & 5,84$^{***}$ & 1,75 & 0,96 & 0,89 & 1,04 & 3,41$^{***}$ & -0,07 & 2,35$^{*}$ & --\\
+Observações & 15 & 15 & 15 & 15 & 13 & 13 & 8 & 7 & 15\\
+$R^2$ ajustado & 0,870 & 0,877 & 0,858 & 0,878 & 0,011 & 0,909 & 0,739 & 0,934 & 0,985\\
+\bottomrule
+\end{tabular}
+\par\smallskip
+\begin{minipage}{0.98\textwidth}\scriptsize
+Fonte: elaboração própria (código \texttt{03\_analise.py}). MQO com dados empilhados de Manaus e Parintins (município-ano). Variáveis em milhares de reais de 2025 per capita, exceto (4), em logaritmos, e (5), em primeiras diferenças. A coluna (6) usa a população oficial do IBGE (sem 2023); as colunas (7) e (8) estimam cada município separadamente; a coluna (9) tem a receita tributária per capita como variável dependente. Na coluna (3), o teste compara o coeficiente do FPM com o do PIB. Erros-padrão robustos HC3 entre parênteses, com distribuição $t$ de Student. A amostra termina em 2023 porque o PIB municipal ainda não foi divulgado para 2024--2025, e Parintins não tem DCA de 2016. *** $p<0{,}01$; ** $p<0{,}05$; * $p<0{,}10$.
+\end{minipage}
+\end{table}

@@ -1,0 +1,614 @@
+﻿consulta,variavel_id,variavel,unidade,classificacao,cod_ibge,localidade,periodo,valor_publicado,arquivo
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201201,3422.7900000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201202,3438.1900000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201203,3445.4100000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201204,3467.4600000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201205,3479.9400000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201206,3482.7200000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201207,3497.7000000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201208,3512.0400000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201209,3532.0600000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201210,3552.9000000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201211,3574.2200000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201212,3602.4600000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201301,3633.4400000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201302,3655.2400000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201303,3672.4200000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201304,3692.6200000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201305,3706.2800000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201306,3715.9200000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201307,3717.0300000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201308,3725.9500000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201309,3738.9900000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201310,3760.3000000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201311,3780.6100000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201312,3815.3900000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201401,3836.3700000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201402,3862.8400000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201403,3898.3800000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201404,3924.5000000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201405,3942.5500000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201406,3958.3200000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201407,3958.7200000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201408,3968.6200000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201409,3991.2400000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201410,4008.0000000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201411,4028.4400000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201412,4059.8600000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201501,4110.2000000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201502,4160.3400000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201503,4215.2600000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201504,4245.1900000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201505,4276.6000000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201506,4310.3900000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201507,4337.1100000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201508,4346.6500000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201509,4370.1200000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201510,4405.9500000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201511,4450.4500000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201512,4493.1700000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201601,4550.2300000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201602,4591.1800000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201603,4610.9200000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201604,4639.0500000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201605,4675.2300000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201606,4691.5900000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201607,4715.9900000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201608,4736.7400000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201609,4740.5300000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201610,4752.8600000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201611,4761.4200000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201612,4775.7000000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201701,4793.8500000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201702,4809.6700000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201703,4821.6900000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201704,4828.4400000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201705,4843.4100000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201706,4832.2700000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201707,4843.8700000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201708,4853.0700000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201709,4860.8300000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201710,4881.2500000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201711,4894.9200000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201712,4916.4600000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201801,4930.7200000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201802,4946.5000000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201803,4950.9500000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201804,4961.8400000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201805,4981.6900000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201806,5044.4600000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201807,5061.1100000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201808,5056.5600000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201809,5080.8300000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201810,5103.6900000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201811,5092.9700000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201812,5100.6100000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201901,5116.9300000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201902,5138.9300000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201903,5177.4700000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201904,5206.9800000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201905,5213.7500000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201906,5214.2700000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201907,5224.1800000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201908,5229.9300000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201909,5227.8400000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201910,5233.0700000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201911,5259.7600000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,201912,5320.2500000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202001,5331.4200000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202002,5344.7500000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202003,5348.4900000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202004,5331.9100000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202005,5311.6500000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202006,5325.4600000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202007,5344.6300000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202008,5357.4600000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202009,5391.7500000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202010,5438.1200000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202011,5486.5200000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202012,5560.5900000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202101,5574.4900000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202102,5622.4300000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202103,5674.7200000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202104,5692.3100000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202105,5739.5600000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202106,5769.9800000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202107,5825.3700000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202108,5876.0500000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202109,5944.2100000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202110,6018.5100000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202111,6075.6900000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202112,6120.0400000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202201,6153.0900000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202202,6215.2400000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202203,6315.9300000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202204,6382.8800000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202205,6412.8800000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202206,6455.8500000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202207,6411.9500000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202208,6388.8700000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202209,6370.3400000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202210,6407.9300000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202211,6434.2000000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202212,6474.0900000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202301,6508.4000000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202302,6563.0700000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202303,6609.6700000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202304,6649.9900000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202305,6665.2800000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202306,6659.9500000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202307,6667.9400000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202308,6683.2800000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202309,6700.6600000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202310,6716.7400000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202311,6735.5500000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202312,6773.2700000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202401,6801.7200000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202402,6858.1700000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202403,6869.1400000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202404,6895.2400000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202405,6926.9600000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202406,6941.5100000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202407,6967.8900000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202408,6966.5000000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202409,6997.1500000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202410,7036.3300000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202411,7063.7700000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202412,7100.5000000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202501,7111.8600000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202502,7205.0300000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202503,7245.3800000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202504,7276.5400000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202505,7295.4600000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202506,7312.9700000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202507,7331.9800000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202508,7323.9100000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202509,7359.0600000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202510,7365.6800000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202511,7378.9400000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202512,7403.2900000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202601,7427.7200000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202602,7479.7100000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202603,7545.5300000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202604,7596.0900000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202605,7640.1500000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202606,7652.3700000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202607,7657.7300000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202608,7633.2300000000000,ibge_ipca_pop_pib.json
+ipca_indice_mensal,2266,IPCA - Número-índice (base: dezembro de 1993 = 100),Número-índice,,1,Brasil,202609,7695.8200000000000,ibge_ipca_pop_pib.json
+ipca_var_anual_dez,2265,IPCA - Variação acumulada em 12 meses,%,,1,Brasil,201212,5.84,ibge_ipca_pop_pib.json
+ipca_var_anual_dez,2265,IPCA - Variação acumulada em 12 meses,%,,1,Brasil,201312,5.91,ibge_ipca_pop_pib.json
+ipca_var_anual_dez,2265,IPCA - Variação acumulada em 12 meses,%,,1,Brasil,201412,6.41,ibge_ipca_pop_pib.json
+ipca_var_anual_dez,2265,IPCA - Variação acumulada em 12 meses,%,,1,Brasil,201512,10.67,ibge_ipca_pop_pib.json
+ipca_var_anual_dez,2265,IPCA - Variação acumulada em 12 meses,%,,1,Brasil,201612,6.29,ibge_ipca_pop_pib.json
+ipca_var_anual_dez,2265,IPCA - Variação acumulada em 12 meses,%,,1,Brasil,201712,2.95,ibge_ipca_pop_pib.json
+ipca_var_anual_dez,2265,IPCA - Variação acumulada em 12 meses,%,,1,Brasil,201812,3.75,ibge_ipca_pop_pib.json
+ipca_var_anual_dez,2265,IPCA - Variação acumulada em 12 meses,%,,1,Brasil,201912,4.31,ibge_ipca_pop_pib.json
+ipca_var_anual_dez,2265,IPCA - Variação acumulada em 12 meses,%,,1,Brasil,202012,4.52,ibge_ipca_pop_pib.json
+ipca_var_anual_dez,2265,IPCA - Variação acumulada em 12 meses,%,,1,Brasil,202112,10.06,ibge_ipca_pop_pib.json
+ipca_var_anual_dez,2265,IPCA - Variação acumulada em 12 meses,%,,1,Brasil,202212,5.79,ibge_ipca_pop_pib.json
+ipca_var_anual_dez,2265,IPCA - Variação acumulada em 12 meses,%,,1,Brasil,202312,4.62,ibge_ipca_pop_pib.json
+ipca_var_anual_dez,2265,IPCA - Variação acumulada em 12 meses,%,,1,Brasil,202412,4.83,ibge_ipca_pop_pib.json
+ipca_var_anual_dez,2265,IPCA - Variação acumulada em 12 meses,%,,1,Brasil,202512,4.26,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1302603,Manaus (AM),2001,1451958,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1302603,Manaus (AM),2002,1488805,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1302603,Manaus (AM),2003,1527314,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1302603,Manaus (AM),2004,1592555,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1302603,Manaus (AM),2005,1644690,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1302603,Manaus (AM),2006,1688524,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1302603,Manaus (AM),2008,1709008,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1302603,Manaus (AM),2009,1738641,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1302603,Manaus (AM),2011,1832424,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1302603,Manaus (AM),2012,1861838,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1302603,Manaus (AM),2013,1982177,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1302603,Manaus (AM),2014,2020301,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1302603,Manaus (AM),2015,2057711,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1302603,Manaus (AM),2016,2094391,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1302603,Manaus (AM),2017,2130264,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1302603,Manaus (AM),2018,2145444,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1302603,Manaus (AM),2019,2182763,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1302603,Manaus (AM),2020,2219580,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1302603,Manaus (AM),2021,2255903,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1302603,Manaus (AM),2024,2279686,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1302603,Manaus (AM),2025,2303732,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1302603,Manaus (AM),2026,2327101,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1303403,Parintins (AM),2001,93883,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1303403,Parintins (AM),2002,96750,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1303403,Parintins (AM),2003,99813,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1303403,Parintins (AM),2004,105002,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1303403,Parintins (AM),2005,109150,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1303403,Parintins (AM),2006,112636,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1303403,Parintins (AM),2008,105742,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1303403,Parintins (AM),2009,107250,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1303403,Parintins (AM),2011,102946,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1303403,Parintins (AM),2012,103828,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1303403,Parintins (AM),2013,109225,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1303403,Parintins (AM),2014,110411,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1303403,Parintins (AM),2015,111575,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1303403,Parintins (AM),2016,112716,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1303403,Parintins (AM),2017,113832,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1303403,Parintins (AM),2018,113168,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1303403,Parintins (AM),2019,114273,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1303403,Parintins (AM),2020,115363,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1303403,Parintins (AM),2021,116439,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1303403,Parintins (AM),2024,101956,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1303403,Parintins (AM),2025,101855,ibge_ipca_pop_pib.json
+pop_estimativas_6579,9324,População residente estimada,Pessoas,,1303403,Parintins (AM),2026,101754,ibge_ipca_pop_pib.json
+pop_censo2022_4714,93,População residente,Pessoas,,1302603,Manaus (AM),2022,2063689,ibge_ipca_pop_pib.json
+pop_censo2022_4714,93,População residente,Pessoas,,1303403,Parintins (AM),2022,96372,ibge_ipca_pop_pib.json
+pop_censo2010_1378,93,População residente,Pessoas,Situação do domicílio=Total; Sexo=Total; Idade=Total; Condição no domicílio e o compartilhamento da responsabilidade pelo domicílio=Total,1302603,Manaus (AM),2010,1802014,ibge_ipca_pop_pib.json
+pop_censo2010_1378,93,População residente,Pessoas,Situação do domicílio=Total; Sexo=Total; Idade=Total; Condição no domicílio e o compartilhamento da responsabilidade pelo domicílio=Total,1303403,Parintins (AM),2010,102033,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1302603,Manaus (AM),2002,17756163,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1302603,Manaus (AM),2003,21120203,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1302603,Manaus (AM),2004,25723023,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1302603,Manaus (AM),2005,28001494,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1302603,Manaus (AM),2006,32770015,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1302603,Manaus (AM),2007,36053012,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1302603,Manaus (AM),2008,39691574,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1302603,Manaus (AM),2009,42070173,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1302603,Manaus (AM),2010,50168821,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1302603,Manaus (AM),2011,55528640,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1302603,Manaus (AM),2012,55551838,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1302603,Manaus (AM),2013,63829864,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1302603,Manaus (AM),2014,67418894,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1302603,Manaus (AM),2015,67076904,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1302603,Manaus (AM),2016,70234306,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1302603,Manaus (AM),2017,73225449,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1302603,Manaus (AM),2018,78155386,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1302603,Manaus (AM),2019,84566043,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1302603,Manaus (AM),2020,91773536,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1302603,Manaus (AM),2021,103281400,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1302603,Manaus (AM),2022,113465435,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1302603,Manaus (AM),2023,127649795,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1303403,Parintins (AM),2002,271105,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1303403,Parintins (AM),2003,252505,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1303403,Parintins (AM),2004,272566,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1303403,Parintins (AM),2005,302521,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1303403,Parintins (AM),2006,370426,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1303403,Parintins (AM),2007,352385,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1303403,Parintins (AM),2008,407811,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1303403,Parintins (AM),2009,456492,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1303403,Parintins (AM),2010,578337,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1303403,Parintins (AM),2011,770401,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1303403,Parintins (AM),2012,811867,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1303403,Parintins (AM),2013,1010620,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1303403,Parintins (AM),2014,975798,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1303403,Parintins (AM),2015,949020,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1303403,Parintins (AM),2016,1027340,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1303403,Parintins (AM),2017,1092155,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1303403,Parintins (AM),2018,1123079,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1303403,Parintins (AM),2019,1225444,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1303403,Parintins (AM),2020,1320369,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1303403,Parintins (AM),2021,1426972,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1303403,Parintins (AM),2022,1511650,ibge_ipca_pop_pib.json
+pib_municipal_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1303403,Parintins (AM),2023,1656949,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1302603,Manaus (AM),2002,14013541,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1302603,Manaus (AM),2003,16869970,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1302603,Manaus (AM),2004,20079133,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1302603,Manaus (AM),2005,22320635,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1302603,Manaus (AM),2006,26381471,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1302603,Manaus (AM),2007,28805016,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1302603,Manaus (AM),2008,30639034,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1302603,Manaus (AM),2009,33849822,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1302603,Manaus (AM),2010,40076047,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1302603,Manaus (AM),2011,44373479,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1302603,Manaus (AM),2012,43402011,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1302603,Manaus (AM),2013,50075925,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1302603,Manaus (AM),2014,53186004,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1302603,Manaus (AM),2015,53818747,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1302603,Manaus (AM),2016,57828654,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1302603,Manaus (AM),2017,59298683,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1302603,Manaus (AM),2018,63198326,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1302603,Manaus (AM),2019,68133754,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1302603,Manaus (AM),2020,72974817,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1302603,Manaus (AM),2021,82264041,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1302603,Manaus (AM),2022,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1302603,Manaus (AM),2023,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1303403,Parintins (AM),2002,258532,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1303403,Parintins (AM),2003,240381,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1303403,Parintins (AM),2004,259767,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1303403,Parintins (AM),2005,288600,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1303403,Parintins (AM),2006,353064,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1303403,Parintins (AM),2007,338028,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1303403,Parintins (AM),2008,391651,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1303403,Parintins (AM),2009,439540,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1303403,Parintins (AM),2010,557631,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1303403,Parintins (AM),2011,741744,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1303403,Parintins (AM),2012,780136,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1303403,Parintins (AM),2013,978993,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1303403,Parintins (AM),2014,943872,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1303403,Parintins (AM),2015,912907,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1303403,Parintins (AM),2016,990068,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1303403,Parintins (AM),2017,1049485,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1303403,Parintins (AM),2018,1075546,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1303403,Parintins (AM),2019,1157488,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1303403,Parintins (AM),2020,1239698,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1303403,Parintins (AM),2021,1335958,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1303403,Parintins (AM),2022,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,498,Valor adicionado bruto a preços correntes total,Mil Reais,,1303403,Parintins (AM),2023,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1302603,Manaus (AM),2002,76755,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1302603,Manaus (AM),2003,77526,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1302603,Manaus (AM),2004,78519,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1302603,Manaus (AM),2005,53586,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1302603,Manaus (AM),2006,68128,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1302603,Manaus (AM),2007,73786,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1302603,Manaus (AM),2008,84307,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1302603,Manaus (AM),2009,110739,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1302603,Manaus (AM),2010,148223,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1302603,Manaus (AM),2011,194860,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1302603,Manaus (AM),2012,184903,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1302603,Manaus (AM),2013,222279,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1302603,Manaus (AM),2014,203775,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1302603,Manaus (AM),2015,204571,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1302603,Manaus (AM),2016,207377,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1302603,Manaus (AM),2017,218517,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1302603,Manaus (AM),2018,209000,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1302603,Manaus (AM),2019,206298,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1302603,Manaus (AM),2020,164934,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1302603,Manaus (AM),2021,201067,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1302603,Manaus (AM),2022,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1302603,Manaus (AM),2023,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1303403,Parintins (AM),2002,89588,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1303403,Parintins (AM),2003,59432,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1303403,Parintins (AM),2004,54105,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1303403,Parintins (AM),2005,51775,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1303403,Parintins (AM),2006,66383,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1303403,Parintins (AM),2007,51272,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1303403,Parintins (AM),2008,70212,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1303403,Parintins (AM),2009,72029,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1303403,Parintins (AM),2010,136438,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1303403,Parintins (AM),2011,261311,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1303403,Parintins (AM),2012,249698,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1303403,Parintins (AM),2013,357256,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1303403,Parintins (AM),2014,250195,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1303403,Parintins (AM),2015,227934,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1303403,Parintins (AM),2016,276507,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1303403,Parintins (AM),2017,270295,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1303403,Parintins (AM),2018,264721,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1303403,Parintins (AM),2019,250011,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1303403,Parintins (AM),2020,297512,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1303403,Parintins (AM),2021,290479,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1303403,Parintins (AM),2022,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,513,Valor adicionado bruto a preços correntes da agropecuária,Mil Reais,,1303403,Parintins (AM),2023,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1302603,Manaus (AM),2002,6963875,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1302603,Manaus (AM),2003,8575420,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1302603,Manaus (AM),2004,10137241,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1302603,Manaus (AM),2005,10892990,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1302603,Manaus (AM),2006,13214046,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1302603,Manaus (AM),2007,13647418,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1302603,Manaus (AM),2008,14191722,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1302603,Manaus (AM),2009,15298615,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1302603,Manaus (AM),2010,19604595,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1302603,Manaus (AM),2011,21832008,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1302603,Manaus (AM),2012,18721451,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1302603,Manaus (AM),2013,21035848,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1302603,Manaus (AM),2014,21651475,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1302603,Manaus (AM),2015,21761033,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1302603,Manaus (AM),2016,25171086,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1302603,Manaus (AM),2017,24636761,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1302603,Manaus (AM),2018,26393970,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1302603,Manaus (AM),2019,29810977,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1302603,Manaus (AM),2020,33271685,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1302603,Manaus (AM),2021,37697008,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1302603,Manaus (AM),2022,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1302603,Manaus (AM),2023,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1303403,Parintins (AM),2002,14636,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1303403,Parintins (AM),2003,13194,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1303403,Parintins (AM),2004,15926,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1303403,Parintins (AM),2005,10472,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1303403,Parintins (AM),2006,12136,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1303403,Parintins (AM),2007,14604,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1303403,Parintins (AM),2008,14769,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1303403,Parintins (AM),2009,19025,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1303403,Parintins (AM),2010,28100,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1303403,Parintins (AM),2011,34406,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1303403,Parintins (AM),2012,40736,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1303403,Parintins (AM),2013,49511,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1303403,Parintins (AM),2014,55772,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1303403,Parintins (AM),2015,46799,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1303403,Parintins (AM),2016,46531,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1303403,Parintins (AM),2017,52651,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1303403,Parintins (AM),2018,65590,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1303403,Parintins (AM),2019,87672,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1303403,Parintins (AM),2020,78215,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1303403,Parintins (AM),2021,92451,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1303403,Parintins (AM),2022,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,517,Valor adicionado bruto a preços correntes da indústria,Mil Reais,,1303403,Parintins (AM),2023,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2002,5281648,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2003,6314824,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2004,7738947,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2005,8879847,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2006,10076401,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2007,11949710,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2008,12753829,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2009,14456356,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2010,15828206,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2011,17295504,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2012,18841764,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2013,22396305,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2014,24095703,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2015,24329773,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2016,24560215,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2017,26106655,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2018,27666550,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2019,28318708,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2020,29332492,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2021,33086569,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2022,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2023,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2002,58099,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2003,57305,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2004,63330,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2005,75939,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2006,92093,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2007,90886,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2008,96337,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2009,118170,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2010,140885,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2011,161986,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2012,173053,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2013,216177,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2014,243787,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2015,242042,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2016,258909,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2017,281127,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2018,287997,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2019,322426,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2020,334976,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2021,358496,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2022,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,6575,"Valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2023,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2002,1691263,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2003,1902200,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2004,2124426,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2005,2494212,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2006,3022896,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2007,3134100,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2008,3609177,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2009,3984114,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2010,4495022,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2011,5051107,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2012,5653894,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2013,6421492,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2014,7235051,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2015,7523370,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2016,7889975,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2017,8336750,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2018,8928806,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2019,9797771,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2020,10205706,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2021,11279398,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2022,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1302603,Manaus (AM),2023,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2002,96208,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2003,110449,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2004,126406,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2005,150414,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2006,182452,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2007,181267,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2008,210334,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2009,230316,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2010,252208,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2011,284041,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2012,316649,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2013,356048,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2014,394118,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2015,396132,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2016,408122,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2017,445412,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2018,457237,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2019,497379,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2020,528995,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2021,594533,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2022,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,525,"Valor adicionado bruto a preços correntes da administração, defesa, educação e saúde públicas e seguridade social",Mil Reais,,1303403,Parintins (AM),2023,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1302603,Manaus (AM),2002,3742622,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1302603,Manaus (AM),2003,4250233,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1302603,Manaus (AM),2004,5643890,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1302603,Manaus (AM),2005,5680860,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1302603,Manaus (AM),2006,6388544,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1302603,Manaus (AM),2007,7247997,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1302603,Manaus (AM),2008,9052540,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1302603,Manaus (AM),2009,8220351,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1302603,Manaus (AM),2010,10092774,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1302603,Manaus (AM),2011,11155161,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1302603,Manaus (AM),2012,12149826,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1302603,Manaus (AM),2013,13753940,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1302603,Manaus (AM),2014,14232890,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1302603,Manaus (AM),2015,13258158,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1302603,Manaus (AM),2016,12405653,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1302603,Manaus (AM),2017,13926766,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1302603,Manaus (AM),2018,14957060,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1302603,Manaus (AM),2019,16432288,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1302603,Manaus (AM),2020,18798720,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1302603,Manaus (AM),2021,21017359,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1302603,Manaus (AM),2022,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1302603,Manaus (AM),2023,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1303403,Parintins (AM),2002,12573,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1303403,Parintins (AM),2003,12125,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1303403,Parintins (AM),2004,12799,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1303403,Parintins (AM),2005,13921,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1303403,Parintins (AM),2006,17362,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1303403,Parintins (AM),2007,14356,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1303403,Parintins (AM),2008,16160,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1303403,Parintins (AM),2009,16952,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1303403,Parintins (AM),2010,20707,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1303403,Parintins (AM),2011,28657,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1303403,Parintins (AM),2012,31731,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1303403,Parintins (AM),2013,31628,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1303403,Parintins (AM),2014,31925,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1303403,Parintins (AM),2015,36113,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1303403,Parintins (AM),2016,37272,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1303403,Parintins (AM),2017,42669,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1303403,Parintins (AM),2018,47533,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1303403,Parintins (AM),2019,67956,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1303403,Parintins (AM),2020,80671,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1303403,Parintins (AM),2021,91013,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1303403,Parintins (AM),2022,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,543,"Impostos, líquidos de subsídios, sobre produtos a preços correntes",Mil Reais,,1303403,Parintins (AM),2023,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1302603,Manaus (AM),2002,37.69,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1302603,Manaus (AM),2003,37.43,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1302603,Manaus (AM),2004,38.54,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1302603,Manaus (AM),2005,39.78,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1302603,Manaus (AM),2006,38.19,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1302603,Manaus (AM),2007,41.48,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1302603,Manaus (AM),2008,41.63,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1302603,Manaus (AM),2009,42.71,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1302603,Manaus (AM),2010,39.50,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1302603,Manaus (AM),2011,38.98,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1302603,Manaus (AM),2012,43.41,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1302603,Manaus (AM),2013,44.72,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1302603,Manaus (AM),2014,45.30,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1302603,Manaus (AM),2015,45.21,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1302603,Manaus (AM),2016,42.47,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1302603,Manaus (AM),2017,44.03,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1302603,Manaus (AM),2018,43.78,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1302603,Manaus (AM),2019,41.56,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1302603,Manaus (AM),2020,40.20,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1302603,Manaus (AM),2021,40.22,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1302603,Manaus (AM),2022,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1302603,Manaus (AM),2023,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1303403,Parintins (AM),2002,22.47,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1303403,Parintins (AM),2003,23.84,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1303403,Parintins (AM),2004,24.38,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1303403,Parintins (AM),2005,26.31,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1303403,Parintins (AM),2006,26.08,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1303403,Parintins (AM),2007,26.89,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1303403,Parintins (AM),2008,24.60,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1303403,Parintins (AM),2009,26.88,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1303403,Parintins (AM),2010,25.26,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1303403,Parintins (AM),2011,21.84,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1303403,Parintins (AM),2012,22.18,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1303403,Parintins (AM),2013,22.08,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1303403,Parintins (AM),2014,25.83,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1303403,Parintins (AM),2015,26.51,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1303403,Parintins (AM),2016,26.15,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1303403,Parintins (AM),2017,26.79,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1303403,Parintins (AM),2018,26.78,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1303403,Parintins (AM),2019,27.86,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1303403,Parintins (AM),2020,27.02,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1303403,Parintins (AM),2021,26.83,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1303403,Parintins (AM),2022,...,ibge_ipca_pop_pib.json
+pib_municipal_5938,6574,"Participação do valor adicionado bruto a preços correntes dos serviços, exclusive administração, defesa, educação e saúde públicas e seguridade social, no valor adicionado bruto a preços correntes total",%,,1303403,Parintins (AM),2023,...,ibge_ipca_pop_pib.json
+pib_brasil_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1,Brasil,2002,1488787276,ibge_ipca_pop_pib.json
+pib_brasil_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1,Brasil,2003,1717950386,ibge_ipca_pop_pib.json
+pib_brasil_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1,Brasil,2004,1957751224,ibge_ipca_pop_pib.json
+pib_brasil_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1,Brasil,2005,2170584503,ibge_ipca_pop_pib.json
+pib_brasil_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1,Brasil,2006,2409449916,ibge_ipca_pop_pib.json
+pib_brasil_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1,Brasil,2007,2720262951,ibge_ipca_pop_pib.json
+pib_brasil_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1,Brasil,2008,3109803097,ibge_ipca_pop_pib.json
+pib_brasil_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1,Brasil,2009,3333039339,ibge_ipca_pop_pib.json
+pib_brasil_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1,Brasil,2010,3885847000,ibge_ipca_pop_pib.json
+pib_brasil_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1,Brasil,2011,4376382000,ibge_ipca_pop_pib.json
+pib_brasil_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1,Brasil,2012,4814760000,ibge_ipca_pop_pib.json
+pib_brasil_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1,Brasil,2013,5331618957,ibge_ipca_pop_pib.json
+pib_brasil_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1,Brasil,2014,5778952780,ibge_ipca_pop_pib.json
+pib_brasil_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1,Brasil,2015,5995787000,ibge_ipca_pop_pib.json
+pib_brasil_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1,Brasil,2016,6269328000,ibge_ipca_pop_pib.json
+pib_brasil_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1,Brasil,2017,6585479000,ibge_ipca_pop_pib.json
+pib_brasil_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1,Brasil,2018,7004141000,ibge_ipca_pop_pib.json
+pib_brasil_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1,Brasil,2019,7389131000,ibge_ipca_pop_pib.json
+pib_brasil_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1,Brasil,2020,7609597000,ibge_ipca_pop_pib.json
+pib_brasil_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1,Brasil,2021,9012142000,ibge_ipca_pop_pib.json
+pib_brasil_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1,Brasil,2022,10079676378,ibge_ipca_pop_pib.json
+pib_brasil_5938,37,Produto Interno Bruto a preços correntes,Mil Reais,,1,Brasil,2023,10943345439,ibge_ipca_pop_pib.json
